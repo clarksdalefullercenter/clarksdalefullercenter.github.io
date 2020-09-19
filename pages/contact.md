@@ -10,4 +10,4 @@ permalink: "/contact/"
 - [Email us!][2]
 
  [1]: https://www.facebook.com/Clarksdale-Area-Habitat-for-Humanity-149997205074095/
- [2]: mailto:info@clarksdalehabitat.org
+ [2]: mailto:info@clarksdalefullercenter.org

@@ -8,15 +8,15 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Clarksdale Habitat"
+title: "Clarksdale Fuller Center"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Clarksdale Area Habitat for Humanity Affiliate"
+slogan: "Clarksdale Area Fuller Center for Housing"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "This website was created by Isaac Freund for the Clarkdale Area Habitat for Humanity Affiliate."
+description: "This is the website for the Clarkdale Area Fuller Center for Housing, created to help further our mission."
 
 # Main author of the website
 # See > authors.yml
@@ -24,7 +24,7 @@ author: bill
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://clarksdalehabitat.org'
+url: 'https://clarksdalefullercenter.org'
 baseurl:
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://clarksdalehabitat.org/images/'
+urlimg: 'https://clarksdalefullercenter.org/images/'
 
 
 # Logo size is 600x80 pixels
