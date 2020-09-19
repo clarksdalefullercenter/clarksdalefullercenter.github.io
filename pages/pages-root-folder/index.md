@@ -18,10 +18,10 @@ widget3:
   image: '/images/workers_square.png'
   text: 'Discover what you can do to help out.  Our volunteers play a major role in improving and transforming neighborhoods and lives.'
 
-callforaction:
-  url: https://secure.givelively.org/donate/clarksdale-area-habitat-for-humanity-inc
-  text: Donate Now ›
-  style: alert
+#callforaction:
+#  url: https://secure.givelively.org/donate/clarksdale-area-habitat-for-humanity-inc
+#  text: Donate Now ›
+#  style: alert
 permalink: /index.html
 <!-- donation_text: |
   CAHFH is in a financial hole for a variety of reasons, but the bottom line is that we are on probation and in danger of being de-affiliated.  The new board and affiliate coordinator are implementing new systems that will allow us to become a healthy, properly functioning, and self-sustaining organization once again, but in the meantime, we are desperate!  We need immediate and significant help so we can continue to serve the people who need it--both the disadvantaged who deserve decent housing, as well as the privileged who benefit from serving.
@@ -31,13 +31,15 @@ permalink: /index.html
 
 ## Welcome to Our New Website!
 ****
-Thanks to the generosity and technical wizardry (at least to my Neanderthalic eyes) of Isaac Freund, we now have a forum to inform, enlighten, and encourage each other, as we pursue CAHFH’s vision for partnering with local folks and outside volunteers in addressing problems with substandard housing and deeper issues of racial reconciliation in the Mississippi Delta.  We would like for this website to feature offerings from all of our constituents: homeowners, board members, donors, volunteers, and other parties willing to invest in the CAHFH mission.
+We are now the Clarksdale Area Fuller Center for Housing! 
 
-Eventually, we will be including pictures, donor information, and opportunities for service, as we (Isaac) has the chance to continue his fine work.  Please send any contributions to or suggestions for the website to my email (<mailto:bill@clarksdalehabitat.org>) so we can consider how to best include them.
+Our migration of the website is still in progress, so you will still find
+mentions of Habitat outside of the old news posts. Please bear with us in
+this transitional period.
 
 Bill Sutton
 
-CAHFH Chief of Operations
+CAFCH Chief of Operations
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
