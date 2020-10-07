@@ -33,9 +33,19 @@ permalink: /index.html
 ****
 We are now the Clarksdale Area Fuller Center for Housing! 
 
-Our migration of the website is still in progress, so you will still find
-mentions of Habitat outside of the old news posts. Please bear with us in
-this transitional period.
+Thanks to the generosity and technical wizardry (at least to my
+Neanderthalic eyes) of Isaac Freund, we now have a forum to inform,
+enlighten, and encourage each other, as we pursue CAFCH’s vision for
+partnering with local folks and outside volunteers in addressing problems
+with substandard housing and deeper issues of racial reconciliation in the
+Mississippi Delta. We would like for this website to feature offerings from
+all of our constituents: homeowners, board members, donors, volunteers,
+and other parties willing to invest in the CAFCH mission.  Eventually,
+we will be including pictures, donor information, and opportunities for
+service, as we (Isaac) has the chance to continue his fine work. Please
+send any contributions to or suggestions for the website to my email
+([bill@clarksdalefullercenter.org](mailto:bill@clarksdalefullercenter.org))
+so we can consider how to best include them.
 
 Bill Sutton
 
