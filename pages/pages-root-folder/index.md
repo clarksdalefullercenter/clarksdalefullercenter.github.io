@@ -6,7 +6,7 @@ widget1:
   title: "Our Affiliate"
   url: '/about/'
   image: '/images/benandbill_square.png'
-  text: 'Clarksdale Area Habitat for Humanity works on alleviating substandard housing in Clarksdale, Mississippi.'
+  text: 'The Clarkdale Fuller Center works on alleviating substandard housing in Clarksdale, Mississippi.'
 widget2:
   title: "Sweat Equity"
   url: '/sweatequity'
