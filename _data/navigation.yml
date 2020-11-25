@@ -16,8 +16,8 @@
   # - title: "Dropdown Menu 3"
   #   url: "#"
 
-- title: "Volunteer"
-  url: "/volunteer/"
+- title: "Volunteers"
+  url: "/volunteers/"
   side: left
 
 - title: News

@@ -13,8 +13,8 @@ widget2:
   image: '/images/tools_square.png'
   text: 'Only a small down payment is asked of partner families, for few low-income families can afford more. Instead, future habitat homeowners contribute sweat equity.'
 widget3:
-  title: "Volunteer"
-  url: '/volunteer/'
+  title: "Volunteers"
+  url: '/volunteers/'
   image: '/images/workers_square.png'
   text: 'Discover what you can do to help out.  Our volunteers play a major role in improving and transforming neighborhoods and lives.'
 
