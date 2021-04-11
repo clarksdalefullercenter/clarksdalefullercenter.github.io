@@ -9,7 +9,8 @@ permalink: /mission/
 Seeking to put God’s love into action, Clarksdale Area Fuller Center
 for Housing (formerly Clarksdale Area Habitat for Humanity) brings people
 together across generational, geographic, racial, and social class boundaries
-to build affordable homes, vibrant communities and transformational hope.
+to build affordable homes, vibrant communities and transformational hope
+for qualified, low-income residents of this Mississippi Delta community.
 
 What has made CAFCH (and CAHFH before it) historically different than, say, any
 government or privately funded program to provide low-income housing is this
