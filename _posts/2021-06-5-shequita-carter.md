@@ -128,7 +128,7 @@ work crews.  Led by Fuller VP for Operations Stacey Driggers and consisting
 of students and staff from Georgia Southwestern University, the properly
 masked and semi-vaccinated workers put most of the the finishing touches
 on the Edwards St. house, even leaving the premises with a brand-new Stihl
-lawnmower, deleivered by Fuller President David Snell just for the occasion.
+lawnmower, delivered by Fuller President David Snell just for the occasion.
 
 ![]({{ site.urlimg }}posts/shequita-carter/image12.png)
 {: style="text-align: center;"}
