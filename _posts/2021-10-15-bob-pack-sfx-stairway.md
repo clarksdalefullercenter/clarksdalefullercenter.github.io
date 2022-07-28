@@ -12,8 +12,6 @@ teaser: |
     Humanity and now the Fuller Center for over 20 years...
 categories:
   - news
-<!-- tags:
-  - dummy -->
 #
 # Styling
 #
