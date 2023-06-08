@@ -29,28 +29,6 @@ permalink: /index.html
   We are a 501(c)(3) charitable organization, EIN 64-0745121. All the contributions are tax deductible. No goods or services will be provided in exchange for the contribution. -->
 ---
 
-## Welcome to Our New Website!
-****
-We are now the Clarksdale Area Fuller Center for Housing! 
-
-Thanks to the generosity and technical wizardry (at least to my
-Neanderthalic eyes) of Isaac Freund, we now have a forum to inform,
-enlighten, and encourage each other, as we pursue CAFCH’s vision for
-partnering with local folks and outside volunteers in addressing problems
-with substandard housing and deeper issues of racial reconciliation in the
-Mississippi Delta. We would like for this website to feature offerings from
-all of our constituents: homeowners, board members, donors, volunteers,
-and other parties willing to invest in the CAFCH mission.  Eventually,
-we will be including pictures, donor information, and opportunities for
-service, as we (Isaac) has the chance to continue his fine work. Please
-send any contributions to or suggestions for the website to my email
-([bill@clarksdalefullercenter.org](mailto:bill@clarksdalefullercenter.org))
-so we can consider how to best include them.
-
-Bill Sutton
-
-CAFCH Chief of Operations
-
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
